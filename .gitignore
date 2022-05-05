@@ -4,3 +4,4 @@ render/
 assets/
 capture_org/
 */geo/**/*
+*.abc

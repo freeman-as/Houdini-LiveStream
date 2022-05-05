@@ -80,3 +80,75 @@ https://www.youtube.com/channel/UCWNl5aL_Zf9S8ZDmoYV7Vgw
 - **20220103_work**  
   
   <img src="captures\20220103_work_0051.png" alt="20220103_work_0051" width="640" />
+
+- **20220107_work**  
+  
+  <img src="captures\20220107_work_0001.png" alt="20220107_work_0001" width="640" />
+
+- **20220113_work**  
+  
+  <img src="captures\20220113_work_0075.png" alt="20220113_work_0075" width="640" />
+
+- **20220119_work**  
+  
+  <img src="captures\20220119_work_0119.png" alt="20220119_work_0119" width="640" />
+
+- **20220121_work**  
+  
+  <img src="captures\20220121_work_0001.png" alt="20220121_work_0001" width="640" />
+
+- **20220122_work**  
+  
+  <img src="captures\20220122_work_0001.png" alt="20220122_work_0001" width="640" />
+
+- **20220126_work**  
+  
+  <img src="captures\20220126_work_v19_rs_0001.png" alt="20220126_work_v19_rs_0001" width="640" />
+
+- **20220127_work**  
+  
+  <img src="captures\20220127_work_v19_0050.png" alt="20220127_work_v19_0050" width="640" />
+
+- **20220129_work**  
+  
+  <img src="captures\20220129_work_0015.png" alt="20220129_work_0015" width="640" />
+
+- **20220131_work**  
+  
+  <img src="captures\20220131_work_v19_0002.png" alt="20220131_work_v19_0002" width="640" />
+
+- **20220203_work**  
+  
+  <img src="captures\20220203_work_0230.png" alt="20220203_work_0230" width="640" />
+
+- **20220204_work**  
+  
+  <img src="captures\20220204_work_v19_0001.png" alt="20220204_work_v19_0001" width="640" />
+
+- **20220205_work**  
+  
+  <img src="captures\20220205_work_v19_0001.png" alt="20220205_work_v19_0001" width="640" />
+
+- **20220207_work**  
+  
+  <img src="captures\20220207_work_v19_rs_0001.png" alt="20220207_work_v19_rs_0001" width="640" />
+
+- **20220209_work**  
+  
+  <img src="captures\20220209_work_rs_0001.png" alt="20220209_work_rs_0001" width="640" />
+
+- **20220211_work**  
+  
+  <img src="captures\20220211_work_v19_rs_0300.png" alt="20220211_work_v19_rs_0300" width="640" />
+
+- **20220213_work**  
+  
+  <img src="captures\20220213_work_v19_rs_0100.png" alt="20220213_work_v19_rs_0100" width="640" />
+
+- **20220216_work**  
+  
+  <img src="captures\20220216_work_v19_rs_0001.png" alt="20220216_work_v19_rs_0001" width="640" />
+
+- **20220228_work**  
+  
+  <img src="captures\20220228_work_v19_rs_0056.png" alt="20220228_work_v19_rs_0056" width="640" />

@@ -164,3 +164,7 @@ https://www.youtube.com/channel/UCWNl5aL_Zf9S8ZDmoYV7Vgw
 - **20220519_work**  
   
   <img src="captures\20220519_work_0052.png" alt="20220519_work_0052" width="640" />
+
+- **20220526_work**  
+  
+  <img src="captures\20220526_work_0001.png" alt="20220526_work_0001" width="640" />
